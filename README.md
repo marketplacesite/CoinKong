@@ -23,6 +23,12 @@ A secure cryptocurrency exchange platform integrating many secure exchanges just
 2.  Start trading immediately
 3.  No signup required
 
+## Current Integrations
+*   sideshift
+*   changenow
+*   stealthex
+*   (more coming soon)
+
 ## Support
 
 Need help? Our live chat is available 24/7.
