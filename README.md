@@ -1,7 +1,7 @@
 [![CoinKong](https://img.shields.io/badge/Coin-Kong-purple?style=flat-square)](https://coinkong.netlify.app)
 
 ## About
-A secure cryptocurrency exchange platform built with \[list your tech stack]. Features include:
+A secure cryptocurrency exchange platform integrating many secure exchanges just for you.
 
 *   No KYC required
 *   No signup needed
