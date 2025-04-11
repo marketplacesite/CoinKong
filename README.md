@@ -2,7 +2,7 @@
 [![Crypto Exchange](https://img.shields.io/badge/Crypto-Exchange-Platform-0.0.1-blue.svg?style=flat-square)]()
 
 ## About
-A secure cryptocurrency exchange platform built with [list your tech stack]. Features include:
+A secure cryptocurrency exchange platform built with care and a sole developer.
 
 * No KYC required
 * No signup needed
