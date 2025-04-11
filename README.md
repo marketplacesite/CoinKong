@@ -1,7 +1,4 @@
-# Coinkong 🚀
-
-[![Crypto Exchange](https://img.shields.io/badge/Crypto-Exchange-Platform-0.0.1-purple?style=flat-square)](https://coinkong.netlify.app)
-[![No KYC](https://img.shields.io/badge/KYC-Not%20Required-purple?style=flat-square)](https://coinkong.netlify.app)
+[![CoinKong](https://img.shields.io/badge/KYC-Not%20Required-purple?style=flat-square)](https://coinkong.netlify.app)
 
 ## About
 A secure cryptocurrency exchange platform built with \[list your tech stack]. Features include:
