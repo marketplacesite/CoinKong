@@ -19,7 +19,7 @@ A secure cryptocurrency exchange platform built with \[list your tech stack]. Fe
 
 ## Getting Started
 
-1.  Visit \[https://coinkong.netlify.app](https://coinkong.netlify.app)
+1.  Visit [https://coinkong.netlify.app](https://coinkong.netlify.app)
 2.  Start trading immediately
 3.  No signup required
 
