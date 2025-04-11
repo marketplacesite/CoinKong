@@ -25,7 +25,7 @@ A secure cryptocurrency exchange platform built with \[list your tech stack]. Fe
 
 ## Support
 
-Need help? Our live chat support team is available 24/7 to assist you.
+Need help? Our live chat is available 24/7.
 
 ## License
 
