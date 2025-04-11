@@ -24,10 +24,10 @@ A secure cryptocurrency exchange platform integrating many secure exchanges just
 3.  No signup required
 
 ## Current Integrations
+*   letsexchange
 *   sideshift
 *   changenow
 *   stealthex
-*   (more coming soon)
 
 ## Support
 
