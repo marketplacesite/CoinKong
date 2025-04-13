@@ -19,7 +19,7 @@ A secure cryptocurrency exchange platform integrating many secure exchanges just
 
 ## Getting Started
 
-1.  Visit (https://coinkong.vercel.app)]
+1.  Visit https://coinkong.vercel.app
 2.  Start trading immediately
 3.  No signup required
 
