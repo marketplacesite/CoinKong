@@ -3,6 +3,9 @@
 ## About
 A secure cryptocurrency exchange platform integrating many secure exchanges just for you. We do not act as a intermediary rather the exchanges are directly sent to the user from the exchange provider. You can pick your preferred provider. (assuming the API isn't down or the crypto you want to swap is listed) You can swap 5,000+ different cryptos in one place! Additionally you can Buy / Sell crypto directly too! We also have an option to Buy / Sell crypto directly through LetsExchange partner!
 
+NEW!! 
+* You can now check REAL-TIME analytics of the most popular crypto currencies directly on CoinKong's website! Head over to the side menu and press Analytics.
+
 *   No KYC required
 *   No signup needed
 *   0 extra fees
